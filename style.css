@@ -7,7 +7,7 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-#profile-container{
+#profile-container {
   max-width: 300px;
   margin: 80px auto;
   background-color: white;
@@ -42,4 +42,8 @@ body {
   background-color: burlywood;
   text-align: center;
   color: white;
+}
+
+#profile-job {
+  text-align: center;
 }
